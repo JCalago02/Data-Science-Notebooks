@@ -12,7 +12,7 @@ Unified repository for all data science/data intensive visualization/analysis pr
 
 ## Bitcoin Bollinger Band Analysis
 
-### Title: [Bitcoin Bollinger Band Analysis]
+### File: Bitcoin Bollinger Band Analysis.ipynb
 
 #### Purpose:
 
@@ -24,7 +24,7 @@ After producing the relevant plots within the notebook, it can be seen that ther
 
 ## Bitcoin Linear Regression Exploration
 
-### Title: [Bitcoin Linear Regression Exploration]
+### File: Bitcoin Linear Regression Exploration.ipynb
 
 #### Purpose:
 
@@ -32,11 +32,11 @@ In this notebook, I attempted to build a predictive model for Bitcoin 20 day PnL
 
 #### Results:
 
-After testing various models with both L1 and L2 normalization, a test R^2 of 0.223 was acheived. Because of the z-score normalization, we were able to discern that volatility measures such as the Bollinger Band width brought more predictive power to our model, but due to the low test R^2, findings are most likely not indicative of real market mechanics. Future analysis into different combinations of model features would be the best course of action in an effort to increase test R^2.
+After testing various models with both L1 and L2 normalization, a test $R^2$ of 0.223 was acheived. Because of the z-score normalization, we were able to discern that volatility measures such as the Bollinger Band width brought more predictive power to our model, but due to the low test $R^2$, findings are most likely not indicative of real market mechanics. Future analysis into different combinations of model features would be the best course of action in an effort to increase test $R^2$.
 
 ## Yahoo Finance Basics
 
-### Title: [Yahoo Finance Basics]
+### File: Yahoo Finance Basics.ipynb
 
 ##### Purpose:
 
